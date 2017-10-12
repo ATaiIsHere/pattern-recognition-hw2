@@ -1,0 +1,11 @@
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\bin\Debug\KNN.exe.config
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\bin\Debug\KNN.exe
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\bin\Debug\KNN.pdb
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\obj\Debug\KNN.csprojResolveAssemblyReference.cache
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\obj\Debug\KNN.Form1.resources
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\obj\Debug\KNN.Properties.Resources.resources
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\obj\Debug\KNN.csproj.GenerateResource.Cache
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\obj\Debug\KNN.exe
+c:\users\atai\documents\visual studio 2015\Projects\KNN\KNN\obj\Debug\KNN.pdb
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\KNN\KNN\bin\Debug\LibSVMsharp.dll
+C:\Users\ATai\Documents\Visual Studio 2015\Projects\KNN\KNN\bin\Debug\LibSVMsharp.pdb
